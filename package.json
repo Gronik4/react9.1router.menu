@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/Gronik4/react9.1router.menu.git",
+  "homepage": "https://gronik4.github.io/react9.1router.menu/",
   "eslintConfig": {
     "extends": [
       "react-app",
